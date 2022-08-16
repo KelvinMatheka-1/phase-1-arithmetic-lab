@@ -11,3 +11,5 @@ const num4 = 2
 
 const mod = num3 / num4
 
+const max = 20
+Math.max(5, 10, 15, 20);
